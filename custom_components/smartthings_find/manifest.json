@@ -1,6 +1,6 @@
 {
-  "domain": "smartthings_find",
-  "name": "SmartThings Find",
+  "domain": "smartthings_find2",
+  "name": "SmartThings Find2",
   "after_dependencies": ["http"],
   "version": "0.2.1",
   "documentation": "https://github.com/Vedeneb/HA-SmartThings-Find",
