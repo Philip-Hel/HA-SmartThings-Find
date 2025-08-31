@@ -1,4 +1,4 @@
-DOMAIN = "smartthings_find"
+DOMAIN = "smartthings_find2"
 
 CONF_JSESSIONID = "jsessionid"
 
